@@ -1,2 +1,2 @@
 # mas-mvi-master-api
-Discover &amp; master IBM Maximo Visual Inspection APIs
+Recipe being written atm. Target ETA = End June 2025.
