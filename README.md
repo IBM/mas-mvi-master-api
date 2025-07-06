@@ -34,7 +34,7 @@ Install and run `Jupyter Lab` in the `venv`:
 
 ## 🚀 GO !
 This recipe is all about running 1 notebook, step by step until the end.<br> 
-Download the notebook here [mas-mvi-master-api.ipynb](https://github.com/IBM/mas-mvi-master-api/blob/main/notebooks/cl-mas-mvi-master-api.ipynb).
+Download the notebook here [mas-mvi-master-api.ipynb](https://github.com/IBM/mas-mvi-master-api/blob/main/notebooks/cl-mas-mvi-master-api.ipynb).<br>
 Drag and drop it to the left window of your jupyter lab environment (`File Browser` view) running on `http://localhost:8888/lab`.<br>
 Click on the Jupyter `Table of Contents` view (left).
 Follow the notebook cells one after the other, in order ... <br>
